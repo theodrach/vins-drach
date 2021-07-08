@@ -5,6 +5,9 @@ title: "Vins Drach"
 module:
   imports:
     - path: github.com/theNewDynamic/gohugo-theme-ananke
+    
+theme:
+   - vinsdrach
 
 DefaultContentLanguage: fr
 SectionPagesMenu: main
