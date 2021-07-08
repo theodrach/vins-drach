@@ -1,7 +1,7 @@
 baseURL: "https://theodrach.github.io/vins-drach/"
 languageCode: "fr-fr"
 title: "Vins Drach"
-logo_image: "/image/logorouge.jpg"   
+logo_image: "/images/logorouge.jpg"   
 theme:
    - vinsdrach
 
