@@ -1,6 +1,6 @@
 ---
-title: 'Ananke: a Hugo Tata'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+title: ''
+featured_image: "/images/img_20210625_090740990.jpg"
 description: The last theme you'll ever need. Maybe.
 
 ---
