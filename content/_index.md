@@ -1,6 +1,6 @@
 ---
 title: ''
-logo_image: "/image/logorouge.jpg"
+logo_image: "/images/logorouge.jpg"
 featured_image: "/images/img_20210625_090740990.jpg"
 description: The last theme you'll ever need. Maybe.
 
