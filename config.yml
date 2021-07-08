@@ -1,12 +1,12 @@
 baseURL: "https://theodrach.github.io/vins-drach/"
-languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+languageCode: "fr-fr"
+title: "Vins Drach"
 
 module:
   imports:
     - path: github.com/theNewDynamic/gohugo-theme-ananke
 
-DefaultContentLanguage: en
+DefaultContentLanguage: fr
 SectionPagesMenu: main
 Paginate: 3
 googleAnalytics: ''
@@ -16,11 +16,11 @@ sitemap:
   priority: 0.5
   filename: sitemap.xml
 params:
-  favicon: ''
+  favicon: '/images/favicondrach2.png'
   site_logo: ''
   description: The last theme you'll ever need. Maybe.
-  facebook: ''
-  twitter: 'https://twitter.com/GoHugoIO'
+  facebook: 'https://www.facebook.com/Les-Vins-Drach-100855508872281'
+  twitter: ''
   instagram: ''
   youtube: ''
   github: ''
