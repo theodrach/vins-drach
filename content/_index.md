@@ -1,6 +1,6 @@
 ---
 title: ''
-logo_image: "/images/logorouge.jpg"
+logo_image: "/images/logorouge2.png"
 featured_image: "/images/img_20210625_090740990.jpg"
 description: Vignes et vins de Lucey - toulois - Lorraine
 
