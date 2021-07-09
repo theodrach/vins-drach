@@ -15,7 +15,7 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: '/images/favicondrach2.png'
-  site_logo: '/images/logorouge-sansfond.png'
+  site_logo: 'images/logorouge-sansfond.png'
   description: The last theme you'll ever need. Maybe.
   facebook: 'https://www.facebook.com/Les-Vins-Drach-100855508872281'
   twitter: ''
