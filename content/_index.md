@@ -9,7 +9,7 @@ Bienvenue sur ce site en cours de construction.
 
 Eté 2021, je vous propose deux premiers vins :
 
-* "**Produiz moy du clairet**", un vin rosé intense, issu de Gamay. La vendange de grande maturité a été foulée puis mise en macération pelliculaire pour une vingtaine d'heures avant le pressurage.
+* "**Produiz moy du clairet**", un vin rosé intense, issu de Gamay. La vendange de grande maturité a été foulée puis mise en macération pour une vingtaine d'heures avant le pressurage.
 
 ![](/images/clairet-test-3.jpg)
 
