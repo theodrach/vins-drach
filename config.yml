@@ -1,9 +1,9 @@
-baseURL: "https://theodrach.github.io/vins-drach/"
-languageCode: "fr-fr"
-title: "Vins Drach"
+---
+baseURL: https://theodrach.github.io/vins-drach/
+languageCode: fr-fr
+title: Vins Drach
 theme:
-   - vinsdrach
-
+- vinsdrach
 DefaultContentLanguage: fr
 SectionPagesMenu: main
 Paginate: 3
@@ -14,10 +14,10 @@ sitemap:
   priority: 0.5
   filename: sitemap.xml
 params:
-  favicon: '/images/favicondrach2.png'
-  site_logo: 'images/logorouge-sansfond-85px.png'
+  favicon: "/images/favicondrach2.png"
+  site_logo: images/logorouge-sansfond-85px.png
   description: The last theme you'll ever need. Maybe.
-  facebook: 'https://www.facebook.com/Les-Vins-Drach-100855508872281'
+  facebook: https://www.facebook.com/Les-Vins-Drach-100855508872281
   twitter: ''
   instagram: ''
   youtube: ''
@@ -30,5 +30,5 @@ params:
   rss: ''
   background_color_class: bg-black
   cover_dimming_class: bg-white-40
-  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  featured_image: "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number: 2
