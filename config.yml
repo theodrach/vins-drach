@@ -1,7 +1,6 @@
 baseURL: "https://theodrach.github.io/vins-drach/"
 languageCode: "fr-fr"
 title: "Vins Drach"
-logo_image: "/images/logorouge.jpg"   
 theme:
    - vinsdrach
 
@@ -16,7 +15,7 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: '/images/favicondrach2.png'
-  site_logo: ''
+  site_logo: '/images/logorouge-sansfond.png'
   description: The last theme you'll ever need. Maybe.
   facebook: 'https://www.facebook.com/Les-Vins-Drach-100855508872281'
   twitter: ''
