@@ -2,7 +2,7 @@
 title: ''
 logo_image: "/images/logorouge.jpg"
 featured_image: "/images/img_20210625_090740990.jpg"
-description: The last theme you'll ever need. Maybe.
+description: Vignes et vins de Lucey - toulois - Lorraine
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Bienvenue sur ce site incomplet car en cours de construction...
