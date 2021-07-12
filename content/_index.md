@@ -15,7 +15,7 @@ Eté 2021, je vous propose deux premiers vins :
 
 L'illustration est une gravure de Jacques Callot : _"Le buveur"._
 
-* "**La Vouivre**",  un vin rouge issu de Gamay (75%) et de Pinot Noir (25%) . La macération a duré une quinzaine de jours. Aucun intrant.
+* "**La Vouivre**",  un vin rouge issu de Gamay (75%) et de Pinot Noir (25%). La macération a duré une quinzaine de jours. Aucun intrant.
 
 ![](images/la-vouivre_test4-2.jpg)
 
