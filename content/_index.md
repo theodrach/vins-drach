@@ -2,19 +2,31 @@
 title: ''
 logo_image: ''
 featured_image: "/images/vignedelucey-09-07-21.jpg"
-description: Vignes et vins de Lucey - toulois - Lorraine
+description: Lucey - toulois - Lorraine
 
 ---
-Bienvenue sur ce site en cours de construction.
+_Bienvenue sur ce site en cours de construction._
 
 Eté 2021, je vous propose deux premiers vins :
 
-* "**Produiz moy du clairet**", un vin rosé intense, issu de Gamay. La vendange de grande maturité a été foulée puis mise en macération pour une vingtaine d'heures avant le pressurage.
+* "**Produiz moy du clairet**", un vin rosé corsé issu de Gamay. La vendange a été foulée puis mise en macération une vingtaine d'heures avant le pressurage.
 
 ![](images/clairet-test-3.jpg)
 
-* "**La Vouivre**",  un vin rouge issu de Gamay (75%) et de Pinot Noir (25%) , réalisé à partir de la même vendange de grande maturité. La macération a duré 15 jours.
+L'illustration est une gravure de Jacques Callot : _"Le buveur"._ 
+
+* "**La Vouivre**",  un vin rouge issu de Gamay (75%) et de Pinot Noir (25%) . La macération a duré une quinzaine de jours.
 
 ![](images/la-vouivre_test4-2.jpg)
 
-* Pour me contacter, voici mon adresse mail : [**contact@vins-drach.fr**](mailto:contact@vins-drach.fr)
+L'illustration est une gravure originale d'Amandine Gollé.
+
+Ces deux vins sont issus d'une même vigne âgée de 30-40 ans et située à Lucey (54).
+
+ Pour me contacter, voici mon adresse mail : [**contact@vins-drach.fr**](mailto:contact@vins-drach.fr)
+
+La page Facebook "Les Vins Drach" présente quelques actualités liées au démarrage de mon activité.
+
+A bientôt ! 
+
+T.Drach
