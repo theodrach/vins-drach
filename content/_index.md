@@ -9,13 +9,23 @@ _Bienvenue sur ce site en cours de construction._
 
 Eté 2021, je vous propose deux premiers vins :
 
-* "**Produiz moy du clairet**", un vin rosé corsé issu de Gamay. La vendange a été foulée puis mise en macération une vingtaine d'heures avant le pressurage. Un unique et léger sulfitage après le pressurage. Elevage en cuve inox et en fûts.
+* "**Produiz moy du clairet**", un vin clairet issu de Gamay. La vendange a été foulée puis mise en macération une vingtaine d'heures avant le pressurage. Un unique et léger sulfitage après le pressurage. Elevage en cuve inox et en fûts. 
+
+  Titre alcoométrique: 14,6%vol
+
+  Sucres résiduels : 5,5g/l 
+
+  SO2 total : 17mg/l
 
 ![](images/clairet-test-3.jpg)
 
 L'illustration est une gravure de Jacques Callot : _"Le buveur"._
 
 * "**La Vouivre**",  un vin rouge issu de Gamay (75%) et de Pinot Noir (25%). La macération a duré une quinzaine de jours. Aucun intrant. Elevage en fûts.
+
+  Titre alcoométrique : 14,4%vol
+
+  SO2 total : 19mg/l
 
 ![](images/la-vouivre_test4-2.jpg)
 
