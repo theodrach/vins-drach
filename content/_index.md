@@ -42,7 +42,7 @@ L'illustration est une gravure de Jacques Callot : _"Le buveur"._
 
 L'illustration est une gravure de l'artiste nancéienne Amandine Gollé.
 
-Ces deux vins sont issus d'une même vigne âgée de 30-40 ans et située à Lucey (54).
+Ces vins sont issus d'une même vigne âgée de 30-40 ans et située à Lucey (54).
 
 La vinification a eu lieu chez Jan Tailler, au domaine de l'Arbre Viké, à Domgermain.
 
