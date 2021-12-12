@@ -5,7 +5,7 @@ featured_image: "/images/vignedelucey-09-07-21.jpg"
 description: Lucey - toulois - Lorraine
 
 ---
-_Bienvenue sur ce site en cours de construction._
+_Bienvenue !_
 
 ![](/images/img_20211115_142513834.jpg)
 
