@@ -7,7 +7,9 @@ description: Lucey - toulois - Lorraine
 ---
 _Bienvenue sur ce site en cours de construction._
 
-Automne 2021, je vous propose trois vins :
+![](/images/img_20211115_142513834.jpg)
+
+Décembre 2021, je vous propose trois vins :
 
 * "**Produiz moy du clairet**", un vin clairet issu de Gamay. La vendange a été foulée puis mise en macération une vingtaine d'heures avant le pressurage. Un unique et léger sulfitage après le pressurage. Elevage en cuve inox et en fûts.
 
@@ -21,7 +23,7 @@ Automne 2021, je vous propose trois vins :
 
 L'illustration est une gravure de Jacques Callot : _"Le buveur"._
 
-* "**Produiz moy du clairet PETILLANT NATUREL**", qui est une version pétillante (méthode ancestrale, donc sans aucun ajout de liqueur) du clairet précédent. Il n'a pas fini tous ses sucres. C'est une bulle fine mais persistante, avec une impression fruitée renforcée par le sucre. C'est séduisant tout en restant vineux. 
+* "**Produiz moy du clairet PETILLANT NATUREL**", qui est une version pétillante (méthode ancestrale, donc sans aucun ajout de liqueur) du clairet précédent. Il n'a pas fini tous ses sucres. C'est une bulle fine mais persistante, avec une impression fruitée renforcée par le sucre. C'est séduisant tout en restant vineux.
 
   Résultats d'analyse en aout 2021 :
 
@@ -30,8 +32,6 @@ L'illustration est une gravure de Jacques Callot : _"Le buveur"._
   Sucres résiduels : 13 g/l
 
   SO2 total : <15mg/l
-
-
 * "**La Vouivre**",  un vin rouge issu de Gamay (75%) et de Pinot Noir (25%). La macération a duré une quinzaine de jours. Aucun intrant. Elevage en fûts.
 
   Titre alcoométrique : 14,4%vol
