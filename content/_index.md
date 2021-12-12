@@ -13,7 +13,7 @@ Décembre 2021, je vous propose trois vins du millésime 2020 :
 
 * "**Produiz moy du clairet**", un vin clairet issu de Gamay. La vendange a été foulée puis mise en macération une vingtaine d'heures avant le pressurage. Un unique et léger sulfitage après le pressurage. Élevage en cuve inox et en fûts. 
 
-  _Attention : suite à une légère refermentation en bouteille, le vin est légèrement pétillant à l'ouverture, mais ce gaz disparait au contact de l'air._
+  _Suite à une légère refermentation en bouteille, le vin est légèrement pétillant à l'ouverture, mais ce gaz disparait au contact de l'air._
 
   Titre alcoométrique: 14,6%vol
 
