@@ -7,10 +7,10 @@ theme:
 DefaultContentLanguage: fr
 menu:
   main:
-  - identifier: blog
-    name: This is the blog section
-    title: blog section
-    url: /blog/
+  - identifier: revendeurs
+    name: Où trouver les vins
+    title: Où trouver les vins
+    url: /revendeurs/
     weight: -110
 SectionPagesMenu: ""
 Paginate: 3
