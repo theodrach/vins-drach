@@ -52,8 +52,6 @@ Pour me contacter, voici mon adresse mail : [**contact@vins-drach.fr**](mailto:c
 
 La page Facebook "Les Vins Drach" présente quelques actualités liées au démarrage de mon activité.
 
-[Où trouver les vins ? ](https://app.forestry.io/sites/3kvrcpi46smwrq/#/pages/content-contact-md/)
-
 A bientôt !
 
 T.Drach
