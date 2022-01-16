@@ -5,7 +5,13 @@ title: Vins Drach
 theme:
 - vinsdrach
 DefaultContentLanguage: fr
-menu : "main" 
+menu:
+  main:
+  - identifier: blog
+    name: This is the blog section
+    title: blog section
+    url: /blog/
+    weight: -110
 SectionPagesMenu: ""
 Paginate: 3
 googleAnalytics: ''
