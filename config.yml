@@ -6,12 +6,12 @@ theme:
 - vinsdrach
 DefaultContentLanguage: fr
 menu:
-  main:
+  "main:
   - identifier: about
     name: Où trouver les vins
     title: Où trouver les vins
     url: /pointsdevente
-    weight: -110
+    weight: -110"
 SectionPagesMenu: ""
 Paginate: 3
 googleAnalytics: ''
