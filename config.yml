@@ -6,7 +6,7 @@ theme:
 - vinsdrach
 DefaultContentLanguage: fr
 SectionPagesMenu: "main"
-Paginate: 0
+Paginate: 3
 googleAnalytics: ''
 enableRobotsTXT: true
 canonifyURLs: true
