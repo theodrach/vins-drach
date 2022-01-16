@@ -1,11 +1,18 @@
 ---
-title: About
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
-  the author of this book found, in an obscure nook of one of the towers, the following
-  word, engraved by hand upon the wall: —ANANKE.'
-featured_image: ''
+title: 'Où trouver les vins '
+description: ''
+featured_image: "/images/img_20211008_163731505.jpg"
+logo_image: ''
 
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+Pour le moment, voici les quelques lieux où vous pourrez trouver les vins, à Nancy et à Epinal.
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+**-Vindiou** - caviste/bar à vins - 1 rue Saint Michel, 54000 NANCY
+
+**-L'Echanson** - caviste/bar à vins - 9 rue de la Primatiale 54000 NANCY
+
+**-Fox Den** - bar/restaurant - 56 Cours Léopold 54000 NANCY
+
+**-Mistinguette** - traiteur/caviste - 5 Rue Edouard Grosjean 54520 LAXOU
+
+**-RaiZins** - caviste - 13 Rue du Maréchal Lyautey 88000 EPINAL
