@@ -4,7 +4,6 @@ featured_image: "/images/img_20211008_163731505.jpg"
 omit_header_text: true
 description: Liste des points de vente
 type: page
-draft: true
 
 ---
 Pour le moment, voici les quelques lieux où vous pourrez trouver les vins, à Nancy et à Epinal.
