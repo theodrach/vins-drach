@@ -25,7 +25,7 @@ Actuellement, je vous propose trois vins du millésime 2020 :
 
 L'illustration est une gravure de Jacques Callot : _"Le buveur"._
 
-* "**Produiz moy du clairet PETILLANT NATUREL**", qui est une version pétillante (méthode ancestrale, donc sans aucun ajout de liqueur) du clairet précédent. Il n'a pas fini tous ses sucres. C'est une bulle fine mais persistante, avec une impression fruitée renforcée par le sucre. C'est séduisant tout en restant vineux.
+* "**Produiz moy du clairet PETILLANT NATUREL**", qui est une version pétillante (méthode ancestrale, donc sans aucun ajout de liqueur) du clairet précédent. Il n'a pas fini tous ses sucres. C'est une bulle fine mais persistante, avec une impression fruitée renforcée par le sucre. C'est vineux et séduisant.
 
   Résultats d'analyse en aout 2021 :
 
