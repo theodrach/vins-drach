@@ -6,6 +6,12 @@ theme:
 - vinsdrach
 DefaultContentLanguage: fr
 SectionPagesMenu: "main"
+ <nav class="sidebar-nav">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a>
+        {{ end }}
+    </nav>
 Paginate: 3
 googleAnalytics: ''
 enableRobotsTXT: true
