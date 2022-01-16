@@ -10,7 +10,7 @@ menu:
   - identifier: revendeurs
     name: Où trouver les vins
     title: Où trouver les vins
-    url: /revendeurs/
+    url: /pointsdevente
     weight: -110
 SectionPagesMenu: ""
 Paginate: 3
