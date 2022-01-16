@@ -5,6 +5,7 @@ title: Vins Drach
 theme:
 - vinsdrach
 DefaultContentLanguage: fr
+menu : "main" 
 SectionPagesMenu: ""
 Paginate: 3
 googleAnalytics: ''
