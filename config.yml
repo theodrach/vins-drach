@@ -7,7 +7,7 @@ theme:
 DefaultContentLanguage: fr
 menu:
   main:
-  - identifier: revendeurs
+  - identifier: about
     name: Où trouver les vins
     title: Où trouver les vins
     url: /pointsdevente
