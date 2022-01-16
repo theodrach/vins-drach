@@ -1,11 +1,19 @@
 ---
-title: Contact
+title: 'Trouver les vins '
 featured_image: images/notebook.jpg
 omit_header_text: true
-description: We'd love to hear from you
+description: Liste des points de vente
 type: page
 
 ---
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Pour le moment, voici les quelques lieux où vous pourrez trouver mes vins à Nancy et Epinal.
 
-{{< form-contact action="https://example.com"  >}}
+**-Vindiou** - caviste/bar à vins - 1 rue Saint Michel, 54000 NANCY
+
+**-L'Echanson** - caviste/bar à vins - 9 rue de la Primatiale 54000 NANCY
+
+**-Fox Den** - bar/restaurant - 56 Cours Léopold 54000 NANCY
+
+**-Mistinguette** - traiteur/caviste - 5 Rue Edouard Grosjean 54520 LAXOU
+
+**-RaiZins** - caviste - 13 Rue du Maréchal Lyautey 88000 EPINAL
