@@ -7,13 +7,15 @@ description: Lucey - toulois - Lorraine
 ---
 **_Bienvenue !_**
 
-**_Ce site est pour le moment constitué d'une seule page contenant ces différents éléments dans cet ordre :_**
+**_Ce site est pour le moment constitué d'une seule page._**
+
+ **_Vous y trouverez :_**
 
 **_-la liste des vins, millésime par millésime, du plus récent au plus ancien ;_**
 
 **_-une brève présentation des vignes du petit domaine des Vins Drach ;_**
 
-**_-La liste des points de vente actuels, de Paris à Strasbourg !_**
+**_-et enfin la liste des points de vente actuels, de Paris à Strasbourg !_**
 
 # **Les vins :**
 
@@ -44,7 +46,7 @@ En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
   Le Gamay est issu de la même vendange que la version tranquille de "Natka", mais le pinot noir a été macérée une nuit avant le pressurage, et aucun intrant n'a été utilisé pour cette vinification.
 
-  A une densité proche de celle de l'eau, le vin en fermentation a été mis en bouteille, puis les fermentations se sont terminées en bouteille.
+  A une densité proche de celle de l'eau, le vin en fermentation a été mis en bouteille.
 
   Dégorgement en avril 2022.
 
@@ -102,7 +104,7 @@ Ces vins sont issus de deux parcelles de vignes âgées de 30-40 ans, totalisant
 
 Plus précisément, la vigne est implanté sur un coteau exposé plein Sud, et nommé "Les Vignes l'Evêque" car ayant appartenu aux Evêques de Toul pendant plusieurs siècles.
 
-Depuis la reprise de ces vignes en janvier 2021, la viticulture est biologique est la moins interventionniste possible, en quête de biodiversité et d'expression de la vigne ! Pas de travail du sol, fauchages parcimonieux, limitation ou absence de rognage...
+Depuis la reprise de ces vignes en janvier 2021, la viticulture est biologique est la plus douce possible, en quête de biodiversité et d'expression de la vigne ! Pas de travail du sol, fauchages parcimonieux, limitation ou absence de rognage...
 
 # Points de vente :
 
@@ -134,9 +136,11 @@ PARIS :
 
 **-Koikonboi et KKB l'arrière salle** - Cavistes - 58 rue Damrémont et 45 rue Custine - 75018 PARIS
 
-Pour me contacter, voici mon adresse mail : [**contact@vins-drach.fr**](mailto:contact@vins-drach.fr)
+Pour me contacter, voici mon adresse mail :
 
-La page Facebook "Les Vins Drach" présente quelques actualités liées au démarrage de mon activité.
+ [**contact@vins-drach.fr**](mailto:contact@vins-drach.fr)
+
+Les pages Instagram et Facebook présentent quelques actualités (et d'avantages d'images !) liées à mon activité.
 
 A bientôt !
 
