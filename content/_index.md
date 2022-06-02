@@ -1,21 +1,21 @@
 ---
-title: Petit domaine viticole en Lorraine (54)
+title: ''
 logo_image: ''
 featured_image: "/images/vignedelucey-09-07-21.jpg"
-description: " Vignes du toulois - Vins de Laxou "
+description: " Lorraine (54) - Vignes du toulois  - Vinifications à Laxou."
 
 ---
-**_Bienvenue !_**
+_Bienvenue !_
 
-**_Ce site est pour le moment constitué d'une seule page._**
+_Ce site est pour le moment constitué d'une seule page._
 
- **_Vous y trouverez :_**
+ _Vous y trouverez :_
 
-**_-la liste des vins, millésime par millésime, du plus récent au plus ancien ;_**
+_-la liste des vins, millésime par millésime, du plus récent au plus ancien ;_
 
-**_-une brève présentation des vignes du petit domaine des Vins Drach ;_**
+_-une brève présentation des vignes du petit domaine des Vins Drach ;_
 
-**_-et enfin la liste des points de vente actuels, de Paris à Strasbourg !_**
+_-et enfin la liste des points de vente actuels, de Paris à Strasbourg._
 
 # **Les vins :**
 
