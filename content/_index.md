@@ -15,7 +15,7 @@ _-la liste des vins, millésime par millésime, du plus récent au plus ancien ;
 
 _-une brève présentation des vignes du petit domaine des Vins Drach ;_
 
-_-et enfin la liste des points de vente actuels, de Paris à Strasbourg._
+_- la liste des points de vente actuels, de Paris à Strasbourg._
 
 # **Les vins :**
 
