@@ -73,7 +73,7 @@ En 2020, les vinifications ont eu lieu chez Jan Tailler, au domaine de l'Arbre V
   SO2 total : 17mg/l
 
   L'illustration est une gravure de Jacques Callot : _"Le buveur"._
-* "**Produiz moy du clairet PETILLANT NATUREL**" est une version pétillante (méthode ancestrale) du clairet précédent. Il n'a pas fini tous ses sucres. C'est une bulle fine mais persistante, avec une impression fruitée renforcée par le sucre. C'est vineux et séduisant.
+* \[STOCK EPUISE\] "**Produiz moy du clairet PETILLANT NATUREL**" est une version pétillante (méthode ancestrale) du clairet précédent. Il n'a pas fini tous ses sucres. C'est une bulle fine mais persistante, avec une impression fruitée renforcée par le sucre. C'est vineux et séduisant.
 
   Résultats d'analyse en aout 2021 :
 
@@ -82,13 +82,15 @@ En 2020, les vinifications ont eu lieu chez Jan Tailler, au domaine de l'Arbre V
   Sucres résiduels : 13 g/l
 
   SO2 total : <15mg/l
-* "**La Vouivre**" est un vin rouge issu de Gamay (75%) et de Pinot Noir (25%). La macération a duré une quinzaine de jours. Aucun intrant. Elevage en fûts.
-
-  Titre alcoométrique : 14,4%vol
-
-  SO2 total : 19mg/l
+* "**La Vouivre**" est un vin rouge issu de Gamay (75%) et de Pinot Noir (25%).
 
 ![](images/la-vouivre_test4-2.jpg)
+
+ La macération a duré une quinzaine de jours. Aucun intrant pour cette vinification. Elevage de 6 mois en fûts âgés de 4 vins.
+
+\- Titre alcoométrique : 14,4%vol
+
+\- SO2 total : 19mg/l
 
 L'illustration est une gravure d'Amandine Gollé.
 
@@ -103,6 +105,34 @@ Plus précisément, la vigne est implanté sur un coteau exposé plein Sud, et n
 Depuis la reprise de ces vignes en janvier 2021, la viticulture est biologique est la moins interventionniste possible, en quête de biodiversité et d'expression de la vigne ! Pas de travail du sol, fauchages parcimonieux, limitation ou absence de rognage...
 
 # Points de vente :
+
+Voici les lieux où vous pourrez trouver les vins, à Nancy,  Epinal, Strasbourg et Paris.
+
+LORRAINE : 
+
+**-Vindiou** - caviste/bar à vins - 1 rue Saint Michel, - 54000 NANCY
+
+**-L'Echanson** - caviste/bar à vins - 9 rue de la Primatiale - 54000 NANCY
+
+**-Fox Den** - bar/restaurant - 56 Cours Léopold - 54000 NANCY
+
+**-Mistinguette** - traiteur/caviste - 5 Rue Edouard Grosjean - 54520 LAXOU
+
+**-RaiZins** - caviste - 13 Rue du Maréchal Lyautey - 88000 EPINAL
+
+ALSACE : 
+
+**-Au fil du Vin Libre** - caviste - 26 Quai des Bâteliers - 67000 STRASBOURG
+
+PARIS : 
+
+**-La Cave du Moulin Vieux** - caviste/épicerie locale - 4 rue de la Butte aux Cailles - 75013 PARIS
+
+**-Bien Boire** - caviste - 25 Avenue de la République - 75011 PARIS
+
+**-L'Incognito** - Cave/bar - 71 rue de Charonne 75011 PARIS
+
+**-Koikonboi et KKB l'arrière salle** - Cavistes - 58 rue Damrémont et 45 rue Custine - 75018 PARIS
 
 Pour me contacter, voici mon adresse mail : [**contact@vins-drach.fr**](mailto:contact@vins-drach.fr)
 
