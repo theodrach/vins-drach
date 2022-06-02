@@ -64,7 +64,9 @@ En 2020, les vinifications ont eu lieu chez Jan Tailler, au domaine de l'Arbre V
 
 * "**Produiz moy du clairet**" est un vin clairet issu de Gamay.
 
-  ![](images/clairet-test-3.jpg)La vendange a été foulée puis mise en macération une vingtaine d'heures avant le pressurage. Un unique et léger sulfitage a eu lieu après le pressurage. Élevage en cuve inox et en fûts.
+  ![](images/clairet-test-3.jpg)
+
+  La vendange a été foulée puis mise en macération une vingtaine d'heures avant le pressurage. Un unique et léger sulfitage a eu lieu après le pressurage. Élevage en cuve inox et en fûts.
 
   _Suite à une légère refermentation en bouteille, le vin est légèrement pétillant à l'ouverture, mais ce gaz disparait au contact de l'air._
 
