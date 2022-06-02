@@ -5,39 +5,67 @@ featured_image: "/images/vignedelucey-09-07-21.jpg"
 description: Lucey - toulois - Lorraine
 
 ---
-**_Bienvenue !_** 
+**_Bienvenue !_**
 
-**_Ce site est pour le moment constitué d'une seule page contenant ces différents éléments dans cet ordre :_** 
+**_Ce site est pour le moment constitué d'une seule page contenant ces différents éléments dans cet ordre :_**
 
 **_-la liste des vins, millésime par millésime, du plus récent au plus ancien ;_**
 
-**_-une brève présentation du petit domaine des Vins Drach ;_**
+**_-une brève présentation des vignes du petit domaine des Vins Drach ;_**
 
-**_-La liste des points de vente actuels, de Paris à Strasbourg !_** 
+**_-La liste des points de vente actuels, de Paris à Strasbourg !_**
 
 # **Les vins :**
 
-##  2021
+##                    -   2021   -
 
-* **"Natka"** est un vin rosé sec, issu pour 95% de Gamay et 5% de Pinot noir.
+En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
-  La vendange a été foulée puis pressée (pressoir manuel à cliquets), débourbée après décantation à température ambiante, puis mise en fût âgé de 5 vins. Un unique et léger sulfitage a été effectué après le pressurage (2,5g/hl). Aucun autre intrant n'a été utilisé.
+* **"Natka"** est un vin rosé sec, issu pour 95% de Gamay et 5% de Pinot noir. 
+
+  ![](/images/natka.jpg)
+
+  La vendange a été foulée puis pressée (pressoir manuel à cliquets), débourbée à température ambiante, puis le jus a été mis en fût âgé de 5 vins. Un unique et léger sulfitage a été effectué après le pressurage. Aucun autre intrant n'a été utilisé.
 
   Les fermentations alcoolique et malolactique se sont achevées avant Noël.
 
   L'élevage sur lies s'est poursuivi jusqu'au début du mois d'avril, moment de la mise en bouteille.
 
-  C'est un vin dont l'équilibre se construit entre une fraicheur certaine (millésime oblige ! ), donc une acidité franche, et une rondeur apportée par l'élevage en fût et la touche de pinot noir.
+  C'est un vin dont l'équilibre se construit entre une fraicheur certaine (millésime oblige ! ), donc une acidité franche, et une certaine patine apportée par l'élevage en fût, le tout arrondi par la touche de pinot noir.
 
   \-Titre alcoométrique : 12,1 %vol
 
   \-Sucres résiduels : 0,58 g/l
 
-  \-SO2 total : 19 mg/l
+  \-SO2 total : 19 mg/l.
 
-## 2020 
+    L'illustration est une oeuvre d'Amandine Gollé.
 
-* "**Produiz moy du clairet**", un vin clairet issu de Gamay. La vendange a été foulée puis mise en macération une vingtaine d'heures avant le pressurage. Un unique et léger sulfitage après le pressurage. Élevage en cuve inox et en fûts.
+* **"Natka _pétillant naturel_"** est un pétillant naturel rosé, issu pour 75% de Pinot noir et 25% de Gamay.
+
+  Le Gamay est issu de la même vendange que la version tranquille de "Natka", mais le pinot noir a été macérée une nuit avant le pressurage, et aucun intrant n'a été utilisé pour cette vinification.
+
+  A une densité proche de celle de l'eau, le vin en fermentation a été mis en bouteille, puis les fermentations se sont terminées en bouteille.  
+
+  Dégorgement en avril 2022.
+
+  C'est un vin finement pétillant qui allie fraicheur et rondeur pour un effet clairement désaltérant, tout en restant gourmand.
+
+  \-Titre alcoométrique : 12,0 %vol
+
+  \-Sucres résiduels : 0,71 g/l
+
+  \-SO2 total : 25 mg/l.
+
+##                    -   2020   -
+
+En 2020, les vinifications ont eu lieu chez Jan Tailler, au domaine de l'Arbre Viké, à Domgermain.
+
+* "**Produiz moy du clairet**" est un vin clairet issu de Gamay.
+
+   
+
+  ![](images/clairet-test-3.jpg)La vendange a été foulée puis mise en macération une vingtaine d'heures avant le pressurage. Un unique et léger sulfitage a eu lieu après le pressurage. Élevage en cuve inox et en fûts.
 
   _Suite à une légère refermentation en bouteille, le vin est légèrement pétillant à l'ouverture, mais ce gaz disparait au contact de l'air._
 
@@ -47,11 +75,9 @@ description: Lucey - toulois - Lorraine
 
   SO2 total : 17mg/l
 
-![](images/clairet-test-3.jpg)
+  L'illustration est une gravure de Jacques Callot : _"Le buveur"._
 
-L'illustration est une gravure de Jacques Callot : _"Le buveur"._
-
-* "**Produiz moy du clairet PETILLANT NATUREL**", qui est une version pétillante (méthode ancestrale, donc sans aucun ajout de liqueur) du clairet précédent. Il n'a pas fini tous ses sucres. C'est une bulle fine mais persistante, avec une impression fruitée renforcée par le sucre. C'est vineux et séduisant.
+* "**Produiz moy du clairet PETILLANT NATUREL**" est une version pétillante (méthode ancestrale) du clairet précédent. Il n'a pas fini tous ses sucres. C'est une bulle fine mais persistante, avec une impression fruitée renforcée par le sucre. C'est vineux et séduisant.
 
   Résultats d'analyse en aout 2021 :
 
@@ -60,7 +86,7 @@ L'illustration est une gravure de Jacques Callot : _"Le buveur"._
   Sucres résiduels : 13 g/l
 
   SO2 total : <15mg/l
-* "**La Vouivre**",  un vin rouge issu de Gamay (75%) et de Pinot Noir (25%). La macération a duré une quinzaine de jours. Aucun intrant. Elevage en fûts.
+* "**La Vouivre**" est un vin rouge issu de Gamay (75%) et de Pinot Noir (25%). La macération a duré une quinzaine de jours. Aucun intrant. Elevage en fûts.
 
   Titre alcoométrique : 14,4%vol
 
@@ -68,11 +94,13 @@ L'illustration est une gravure de Jacques Callot : _"Le buveur"._
 
 ![](images/la-vouivre_test4-2.jpg)
 
-L'illustration est une gravure de l'artiste nancéienne Amandine Gollé.
+L'illustration est une gravure d'Amandine Gollé.
 
-Ces vins sont issus d'une même vigne âgée de 30-40 ans et située à Lucey (54).
+# Les vignes
 
-La vinification a eu lieu chez Jan Tailler, au domaine de l'Arbre Viké, à Domgermain.
+Ces vins sont issus de deux parcelles de vignes âgées de 30-40 ans, totalisant une surface de 0,85 ha et situées à Lucey (54).
+
+Plus précisément, la vigne est implanté sur un coteau exposé plein Sud, et nommé "Les Vignes l'Evêque" car ayant appartenu aux Evêques de Toul pendant plusieurs siècles.
 
 Pour me contacter, voici mon adresse mail : [**contact@vins-drach.fr**](mailto:contact@vins-drach.fr)
 
