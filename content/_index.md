@@ -5,11 +5,37 @@ featured_image: "/images/vignedelucey-09-07-21.jpg"
 description: Lucey - toulois - Lorraine
 
 ---
-_Bienvenue !_
+**_Bienvenue !_** 
 
-![](/images/img_20211115_142513834.jpg)
+**_Ce site est pour le moment constitué d'une seule page contenant ces différents éléments dans cet ordre :_** 
 
-Actuellement, je vous propose trois vins du millésime 2020 :
+**_-la liste des vins, millésime par millésime, du plus récent au plus ancien ;_**
+
+**_-une brève présentation du petit domaine des Vins Drach ;_**
+
+**_-La liste des points de vente actuels, de Paris à Strasbourg !_** 
+
+# **Les vins :**
+
+##  2021
+
+* **"Natka"** est un vin rosé sec, issu pour 95% de Gamay et 5% de Pinot noir.
+
+  La vendange a été foulée puis pressée (pressoir manuel à cliquets), débourbée après décantation à température ambiante, puis mise en fût âgé de 5 vins. Un unique et léger sulfitage a été effectué après le pressurage (2,5g/hl). Aucun autre intrant n'a été utilisé.
+
+  Les fermentations alcoolique et malolactique se sont achevées avant Noël.
+
+  L'élevage sur lies s'est poursuivi jusqu'au début du mois d'avril, moment de la mise en bouteille.
+
+  C'est un vin dont l'équilibre se construit entre une fraicheur certaine (millésime oblige ! ), donc une acidité franche, et une rondeur apportée par l'élevage en fût et la touche de pinot noir.
+
+  \-Titre alcoométrique : 12,1 %vol
+
+  \-Sucres résiduels : 0,58 g/l
+
+  \-SO2 total : 19 mg/l
+
+## 2020 
 
 * "**Produiz moy du clairet**", un vin clairet issu de Gamay. La vendange a été foulée puis mise en macération une vingtaine d'heures avant le pressurage. Un unique et léger sulfitage après le pressurage. Élevage en cuve inox et en fûts.
 
