@@ -1,8 +1,8 @@
 ---
-title: ''
+title: Petit domaine viticole en Lorraine (54)
 logo_image: ''
 featured_image: "/images/vignedelucey-09-07-21.jpg"
-description: Lucey - toulois - Lorraine
+description: " Vignes du toulois - Vins de Laxou "
 
 ---
 **_Bienvenue !_**
