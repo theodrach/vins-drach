@@ -118,6 +118,8 @@ LORRAINE :
 
 **-L'Echanson** - caviste/bar à vins - 9 rue de la Primatiale - 54000 NANCY
 
+**-Terroirs Table & Cave** - Caviste/restaurant - 19 rue du Sergent Blandan - 54000 NANCY
+
 **-Fox Den** - bar/restaurant - 56 Cours Léopold - 54000 NANCY
 
 **-Mistinguette** - traiteur/caviste - 5 Rue Edouard Grosjean - 54520 LAXOU
