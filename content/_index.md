@@ -9,7 +9,7 @@ _Bienvenue !_
 
 _Ce site est pour le moment constitué d'une seule page._
 
- _Vous y trouverez :_
+_Vous y trouverez :_
 
 _-la liste des vins, millésime par millésime, du plus récent au plus ancien ;_
 
@@ -90,7 +90,7 @@ En 2020, les vinifications ont eu lieu chez Jan Tailler, au domaine de l'Arbre V
 
 ![](images/la-vouivre_test4-2.jpg)
 
- La macération a duré une quinzaine de jours. Aucun intrant pour cette vinification. Elevage de 6 mois en fûts âgés de 4 vins.
+La macération a duré une quinzaine de jours. Aucun intrant pour cette vinification. Elevage de 6 mois en fûts âgés de 4 vins.
 
 \- Titre alcoométrique : 14,4%vol
 
@@ -112,7 +112,7 @@ Depuis la reprise de ces vignes en janvier 2021, la viticulture est biologique e
 
 Voici les lieux où vous pourrez trouver les vins, à Nancy,  Epinal, Strasbourg et Paris.
 
-LORRAINE : 
+LORRAINE :
 
 **-Vindiou** - caviste/bar à vins - 1 rue Saint Michel, - 54000 NANCY
 
@@ -126,11 +126,13 @@ LORRAINE :
 
 **-RaiZins** - caviste - 13 Rue du Maréchal Lyautey - 88000 EPINAL
 
-ALSACE : 
+**-La Cave de mes Terres** - caviste - 1 rue des Huiliers 57000 METZ
+
+ALSACE :
 
 **-Au fil du Vin Libre** - caviste - 26 Quai des Bâteliers - 67000 STRASBOURG
 
-PARIS : 
+PARIS :
 
 **-La Cave du Moulin Vieux** - caviste/épicerie locale - 4 rue de la Butte aux Cailles - 75013 PARIS
 
@@ -142,7 +144,7 @@ PARIS :
 
 Pour me contacter, voici mon adresse mail :
 
- [**contact@vins-drach.fr**](mailto:contact@vins-drach.fr)
+[**contact@vins-drach.fr**](mailto:contact@vins-drach.fr)
 
 Les pages Instagram et Facebook présentent quelques actualités (et d'avantages d'images !) liées à mon activité.
 
