@@ -23,6 +23,21 @@ _- la liste des points de vente actuels, de Paris à Strasbourg._
 
 En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
+* **"Produiz moy du clairet"** est un vin clairet issu à 100% de Gamay.
+
+  ![](images/clairet-test-3.jpg)  
+
+  Pour cette cuvée, **deux mises** sont disponibles : 
+
+    -**la première mise** est issue de ma grande parcelle en vigne haute. C'est une macération de 24h de la vendange entière après foulage. La fermentation et l'élevage s'est fait en fût et en cuve inox.
+
+  \-Titre alcoométrique : 12,7 %vol
+
+  \-Sucres résiduels : 3,5 g/l
+
+  \-SO2 total : 13 mg/l.
+
+    - **la deuxième mise** ( notée "**M2"** sur le numéro de lot de la bouteille) est issue de ma petite parcelle en vigne basse. C'est un assemblage : 50% provient d'une macération de 24h de la vendange entière après foulage, et 50% provient d'une macération semi-carbonique à basse température, de plusieurs semaines, ayant extrait peu de couleur et de tanins.
 * **"Natka"** est un vin rosé sec, issu pour 95% de Gamay et 5% de Pinot noir.
 
   ![](/images/natka.jpg)
@@ -62,7 +77,7 @@ En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
 En 2020, les vinifications ont eu lieu chez Jan Tailler, au domaine de l'Arbre Viké, à Domgermain.
 
-* "**Produiz moy du clairet**" est un vin clairet issu de Gamay.
+* \[STOCK EPUISE\] "**Produiz moy du clairet**" est un vin clairet issu de Gamay.
 
   ![](images/clairet-test-3.jpg)
 
