@@ -29,7 +29,9 @@ En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
   Ce vin a été obtenu par assemblage de trois fûts : 1 fût de Gamay de la grande vigne haute en macération beaujolaise (semi-carbonique), 1 fût de la petite vigne basse en macération traditionnelle, et 1 fût de Pinot noir en macération traditionnelle.
 
-  La fermentation en fût s'est terminée doucement, puis l'élevage a duré jusqu'au début du mois de juillet 2022. 
+  La fermentation s'est terminée doucement en fût, puis l'élevage a duré jusqu'au début du mois de juillet 2022. 
+
+  Aucun intrant dans ce vin.
 
    -Titre alcoométrique : 12,6 %vol
 
@@ -44,7 +46,9 @@ En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
   Pour cette cuvée, **deux mises** sont à distinguer :
 
-  \-**la première mise** est issue de ma grande parcelle en vigne haute. C'est une macération de 24h de la vendange entière après foulage. La fermentation et l'élevage s'est fait en fût et en cuve inox.
+  \-**la première mise** est issue de ma grande parcelle en vigne haute. C'est une macération de 24h de la vendange entière après foulage. La fermentation et l'élevage s'est fait en fût et en cuve inox. 
+
+  Aucun intrant dans ce vin.
 
   \-Titre alcoométrique : 12,7 %vol
 
