@@ -23,13 +23,13 @@ _- la liste des points de vente actuels, de Paris à Strasbourg._
 
 En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
-* **"La Vouivre"** est un vin rouge issu pour 2/3 de Gamay, et 1/3 de Pinot noir.
+* **"La Vouivre"** est un vin rouge issu pour 2/3 de Gamay, et pour 1/3 de Pinot noir.
 
   ![](images/la-vouivre_test4-2.jpg)  
 
   Ce vin a été obtenu par assemblage de trois fûts : 1 fût de Gamay de la grande vigne haute en macération beaujolaise (semi-carbonique), 1 fût de la petite vigne basse en macération traditionnelle, et 1 fût de Pinot noir en macération traditionnelle.
 
-  La fermentation en fût s'est faite doucement, en plusieurs mois, puis l'élevage a duré jusqu'au début du mois de juillet 2022. 
+  La fermentation en fût s'est terminée doucement, puis l'élevage a duré jusqu'au début du mois de juillet 2022. 
 
    -Titre alcoométrique : 12,6 %vol
 
