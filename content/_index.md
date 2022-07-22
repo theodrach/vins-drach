@@ -23,13 +23,28 @@ _- la liste des points de vente actuels, de Paris à Strasbourg._
 
 En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
+* **"La Vouivre"** est un vin rouge issu pour 2/3 de Gamay, et 1/3 de Pinot noir.
+
+  ![](images/la-vouivre_test4-2.jpg)  
+
+  Ce vin a été obtenu par assemblage de trois fûts : 1 fût de Gamay de la grande vigne haute en macération beaujolaise (semi-carbonique), 1 fût de la petite vigne basse en macération traditionnelle, et 1 fût de Pinot noir en macération traditionnelle.
+
+  La fermentation en fût s'est faite doucement, en plusieurs mois, puis l'élevage a duré jusqu'au début du mois de juillet 2022. 
+
+   -Titre alcoométrique : 12,6 %vol
+
+    -Sucres résiduels : 1,6 g/l
+
+    -SO2 total : 17 mg/l.
+
+
 * **"Produiz moy du clairet"** est un vin clairet issu à 100% de Gamay.
 
-  ![](images/clairet-test-3.jpg)  
+  ![](images/clairet-test-3.jpg)
 
-  Pour cette cuvée, **deux mises** sont disponibles : 
+  Pour cette cuvée, **deux mises** sont à distinguer :
 
-    -**la première mise** est issue de ma grande parcelle en vigne haute. C'est une macération de 24h de la vendange entière après foulage. La fermentation et l'élevage s'est fait en fût et en cuve inox.
+  \-**la première mise** est issue de ma grande parcelle en vigne haute. C'est une macération de 24h de la vendange entière après foulage. La fermentation et l'élevage s'est fait en fût et en cuve inox.
 
   \-Titre alcoométrique : 12,7 %vol
 
@@ -37,7 +52,7 @@ En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
   \-SO2 total : 13 mg/l.
 
-    - **la deuxième mise** ( notée "**M2"** sur le numéro de lot de la bouteille) est issue de ma petite parcelle en vigne basse. C'est un assemblage : 50% provient d'une macération de 24h de la vendange entière après foulage, et 50% provient d'une macération semi-carbonique à basse température, de plusieurs semaines, ayant extrait peu de couleur et de tanins.
+  **-la deuxième mise** ( indiquée par un " **II** " sur le numéro de lot de la bouteille) est issue de ma petite parcelle en vigne basse. C'est un assemblage : 50% provient d'une macération de 24h de la vendange entière après foulage, et 50% provient d'une macération semi-carbonique à basse température, de plusieurs semaines, ayant extrait peu de couleur et de tanins.
 * **"Natka"** est un vin rosé sec, issu pour 95% de Gamay et 5% de Pinot noir.
 
   ![](/images/natka.jpg)
@@ -161,7 +176,7 @@ Pour me contacter, voici mon adresse mail :
 
 [**contact@vins-drach.fr**](mailto:contact@vins-drach.fr)
 
-Les pages Instagram et Facebook présentent quelques actualités (et d'avantages d'images !) liées à mon activité.
+Les pages Instagram et Facebook présentent quelques actualités -et davantage d'images ! - liées à mon activité.
 
 A bientôt !
 
