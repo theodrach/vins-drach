@@ -25,28 +25,26 @@ En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
 * **"La Vouivre"** est un vin rouge issu pour 2/3 de Gamay, et pour 1/3 de Pinot noir.
 
-  ![](images/la-vouivre_test4-2.jpg)  
+  ![](images/la-vouivre_test4-2.jpg)
 
   Ce vin a été obtenu par assemblage de trois fûts : 1 fût de Gamay de la grande vigne haute en macération beaujolaise (semi-carbonique), 1 fût de la petite vigne basse en macération traditionnelle, et 1 fût de Pinot noir en macération traditionnelle.
 
-  La fermentation s'est terminée doucement en fût, puis l'élevage a duré jusqu'au début du mois de juillet 2022. 
+  La fermentation s'est terminée doucement en fût, puis l'élevage a duré jusqu'au début du mois de juillet 2022.
 
   Aucun intrant dans ce vin.
 
-   -Titre alcoométrique : 12,6 %vol
+  \-Titre alcoométrique : 12,6 %vol
 
-    -Sucres résiduels : 1,6 g/l
+  \-Sucres résiduels : 1,6 g/l
 
-    -SO2 total : 17 mg/l.
-
-
+  \-SO2 total : 17 mg/l.
 * **"Produiz moy du clairet"** est un vin clairet issu à 100% de Gamay.
 
   ![](images/clairet-test-3.jpg)
 
   Pour cette cuvée, **deux mises** sont à distinguer :
 
-  \-**la première mise** est issue de ma grande parcelle en vigne haute. C'est une macération de 24h de la vendange entière après foulage. La fermentation et l'élevage s'est fait en fût et en cuve inox. 
+  \-**la première mise** est issue de ma grande parcelle en vigne haute. C'est une macération de 24h de la vendange entière après foulage. La fermentation et l'élevage s'est fait en fût et en cuve inox.
 
   Aucun intrant dans ce vin.
 
@@ -57,6 +55,14 @@ En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
   \-SO2 total : 13 mg/l.
 
   **-la deuxième mise** ( indiquée par un " **II** " sur le numéro de lot de la bouteille) est issue de ma petite parcelle en vigne basse. C'est un assemblage : 50% provient d'une macération de 24h de la vendange entière après foulage, et 50% provient d'une macération semi-carbonique à basse température, de plusieurs semaines, ayant extrait peu de couleur et de tanins.
+
+  Le seule intrant consiste en un ajout de 20 mg/l de SO2 réalisé en cours d'élevage sur l'un des deux fûts ayant permis d'obtenir cette cuvée.
+
+  \-Titre alcoométrique : 12,2%vol
+
+  \-Sucres résiduels : 3,3 g/l
+
+  \-SO2 total : 10mg/l.
 * **"Natka"** est un vin rosé sec, issu pour 95% de Gamay et 5% de Pinot noir.
 
   ![](/images/natka.jpg)
