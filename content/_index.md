@@ -84,7 +84,7 @@ En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
   L'illustration est une oeuvre d'Amandine Gollé.
 * **"Natka _pétillant naturel_"** est un pétillant naturel rosé, issu pour 75% de Pinot noir et 25% de Gamay.
 
-  Le Gamay est issu de la même vendange que la version tranquille de "Natka", mais le pinot noir a été macérée une nuit avant le pressurage, et aucun intrant n'a été utilisé pour cette vinification.
+  Le Gamay est issu de la même vendange que la version tranquille de "Natka", mais le pinot noir a été macéré une nuit avant le pressurage, et aucun intrant n'a été utilisé pour cette vinification.
 
   A une densité proche de celle de l'eau, le vin en fermentation a été mis en bouteille.
 
