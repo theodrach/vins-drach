@@ -56,7 +56,7 @@ En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
   **-la deuxième mise** ( indiquée par un " **II** " sur le numéro de lot de la bouteille) est issue de ma petite parcelle en vigne basse. C'est un assemblage : 50% provient d'une macération de 24h de la vendange entière après foulage, et 50% provient d'une macération semi-carbonique à basse température, de plusieurs semaines, ayant extrait peu de couleur et de tanins.
 
-  Le seule intrant consiste en un ajout de 20 mg/l de SO2 réalisé en cours d'élevage sur l'un des deux fûts ayant permis d'obtenir cette cuvée.
+  Le seul intrant consiste en un ajout de 20 mg/l de SO2 réalisé en cours d'élevage sur l'un des deux fûts ayant permis d'obtenir cette cuvée.
 
   \-Titre alcoométrique : 12,2%vol
 
