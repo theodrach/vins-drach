@@ -19,6 +19,22 @@ _- la liste des points de vente actuels, de Paris à Strasbourg._
 
 # **Les vins :**
 
+## -   2022   - 
+
+* **Premier vin de la série "Natka" en 2022** : un pétillant naturel 100% Gamay frais et léger, issu des premières vendanges au tout début du mois de septembre. 
+
+  ![](/images/natka.jpg)
+
+  Après fermentation complète, la prise de mousse a été faite par ajout d'un moût congelé de fin de vendanges, plus riche en sucres et de maturité plus avancée. 
+
+  Aucun intrant dans ce vin.
+
+  \-Titre alcoométrique : 11 %vol.
+
+  \-Sucres résiduels : <4 g/l 
+
+  \-SO2 total : 19 mg/l
+
 ## -   2021   -
 
 En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
