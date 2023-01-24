@@ -21,11 +21,11 @@ _- la liste des points de vente actuels, de Paris à Strasbourg._
 
 ## -   2022   - 
 
-* **Premier vin de la série "Natka" en 2022** : un pétillant naturel 100% Gamay frais et léger, issu des premières vendanges au tout début du mois de septembre. 
+* **Premier vin de la série "Natka" en 2022** : un pétillant naturel 100% Gamay frais et léger, issu des premières vendanges au début du mois de septembre. 
 
   ![](/images/natka.jpg)
 
-  Après fermentation complète, la prise de mousse a été faite par ajout d'un moût congelé de fin de vendanges, plus riche en sucres et de maturité plus avancée. 
+  Après fermentation complète, la prise de mousse a été faite par ajout d'un moût congelé de fin de vendanges, plus riche en sucres et de maturité plus avancée. Il n'y a pas eu de dégorgement, donc ce vin reste légèrement trouble, pour une bulle de style "relax" ! 
 
   Aucun intrant dans ce vin.
 
