@@ -144,17 +144,19 @@ L'ensemble des vignes se situe dans le toulois, dans l'aire de production de l'A
 
 ![](/images/img_20220530_173502093-compresse.jpg)
 
+![](/images/img_20211008_163731505.jpg)
+
 Les vins de 2020 et 2021 sont issus de deux parcelles de vignes âgées de 30-40 ans, totalisant une surface de 0,85 ha et situées à Lucey.
 
-En 2022 j'ai commencé à m'occuper d'une autre petite parcelle de 0,15 ha à Charmes la Côte. 
+![](/images/img_20220703_100233252.jpg)
 
-Plus précisément, la vigne est implanté sur un coteau exposé plein Sud, et nommé "Les Vignes l'Evêque" car ayant appartenu aux Evêques de Toul pendant plusieurs siècles.
+En 2022 j'ai commencé à m'occuper d'une autre petite parcelle de 0,15 ha à Charmes la Côte.
 
-Depuis la reprise de ces vignes en janvier 2021, la viticulture est biologique est la plus douce possible, en quête de biodiversité et d'expression de la vigne ! Pas de travail du sol, fauchages parcimonieux, limitation ou absence de rognage...
+Depuis la reprise de ces vignes, la viticulture est biologique est la plus douce possible, en quête de biodiversité et d'expression de la vigne ! Pas de travail du sol, fauchages parcimonieux, limitation ou absence de rognage...
 
 # Points de vente :
 
-Voici les lieux où vous pourrez trouver les vins, à Nancy,  Epinal, Strasbourg et Paris.
+Voici les lieux où vous pourrez trouver les vins :
 
 LORRAINE :
 
