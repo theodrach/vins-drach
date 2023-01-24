@@ -140,9 +140,13 @@ L'illustration est une gravure d'Amandine Gollé.
 
 # Les vignes
 
+L'ensemble des vignes se situe dans le toulois, dans l'aire de production de l'AOC Côtes de Toul (54).
+
 ![](/images/img_20220530_173502093-compresse.jpg)
 
-Ces vins sont issus de deux parcelles de vignes âgées de 30-40 ans, totalisant une surface de 0,85 ha et situées à Lucey (54).
+Les vins de 2020 et 2021 sont issus de deux parcelles de vignes âgées de 30-40 ans, totalisant une surface de 0,85 ha et situées à Lucey.
+
+En 2022 j'ai commencé à m'occuper d'une autre petite parcelle de 0,15 ha à Charmes la Côte. 
 
 Plus précisément, la vigne est implanté sur un coteau exposé plein Sud, et nommé "Les Vignes l'Evêque" car ayant appartenu aux Evêques de Toul pendant plusieurs siècles.
 
