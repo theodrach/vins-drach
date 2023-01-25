@@ -13,7 +13,7 @@ _Vous y trouverez :_
 
 _-la liste des vins, millésime par millésime, du plus récent au plus ancien ;_
 
-_-une brève présentation des vignes que je cultive ;_
+_-une brève présentation des vignes_ 
 
 _- la liste des points de vente actuels, de Paris à Strasbourg._
 
@@ -156,15 +156,15 @@ L'illustration est une gravure d'Amandine Gollé.
 
 # Les vignes
 
-L'ensemble des vignes se situe dans le toulois, dans l'aire de production de l'AOC Côtes de Toul (54).
+L'ensemble des vignes se situe dans le toulois, dans l'aire de production de l'AOC Côtes de Toul.
 
-![](/images/img_20220530_173502093-compresse.jpg)
+![](/images/img_20220530_173502093-compresse.jpg "Lucey : vigne haute de gamay et pinot noir")
 
-![](/images/img_20211008_163731505.jpg)
+![](/images/img_20211008_163731505.jpg "Lucey : vigne basse de gamay")
 
 Les vins de 2020 et 2021 sont issus de deux parcelles de vignes âgées de 30-40 ans, totalisant une surface de 0,85 ha et situées à Lucey.
 
-![](/images/img_20220703_100233252.jpg)
+![](/images/img_20220703_100233252.jpg "Vieux gamay et pinots noirs à Charmes la Côte")
 
 En 2022 j'ai commencé à m'occuper d'une autre petite parcelle de 0,15 ha à Charmes la Côte.
 
