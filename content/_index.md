@@ -13,7 +13,7 @@ _Vous y trouverez :_
 
 _-la liste des vins, millésime par millésime, du plus récent au plus ancien ;_
 
-_-une brève présentation des vignes_ 
+_-une brève présentation des vignes que je cultive ;_
 
 _- la liste des points de vente actuels, de Paris à Strasbourg._
 
