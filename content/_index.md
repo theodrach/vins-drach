@@ -2,7 +2,7 @@
 title: ''
 logo_image: "/images/logorouge-sansfond.png"
 featured_image: "/images/vignedelucey-09-07-21.jpg"
-description: " Lorraine (54) - Vignes du toulois  - Vinifications à Laxou."
+description: " Vignes dans le toulois (54)  - Vinifications à Laxou."
 
 ---
 _Bienvenue !_
