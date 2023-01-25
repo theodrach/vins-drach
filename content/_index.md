@@ -13,25 +13,25 @@ _Vous y trouverez :_
 
 _-la liste des vins, millésime par millésime, du plus récent au plus ancien ;_
 
-_-une brève présentation des vignes du petit domaine des Vins Drach ;_
+_-une brève présentation des vignes que je cultive ;_
 
 _- la liste des points de vente actuels, de Paris à Strasbourg._
 
 # **Les vins :**
 
-## -   2022   - 
+## -   2022   -
 
-* **Premier vin de la série "Natka" en 2022** : un pétillant naturel 100% Gamay frais et léger, issu des premières vendanges au début du mois de septembre. 
+* **Premier vin de la série "Natka" en 2022** : **un** **pétillant naturel 100% Gamay** frais et léger, issu des premières vendanges au début du mois de septembre.
 
   ![](/images/natka.jpg)
 
-  Après fermentation complète, la prise de mousse a été faite par ajout d'un moût congelé de fin de vendanges, plus riche en sucres et de maturité plus avancée. Il n'y a pas eu de dégorgement, donc ce vin reste légèrement trouble, pour une bulle de style "relax" ! 
+  Après fermentation complète, la prise de mousse a été faite par ajout d'un moût congelé de fin de vendanges, plus riche en sucres et de maturité plus avancée. Il n'y a pas eu de dégorgement, donc ce vin reste légèrement trouble, pour une bulle de style "relax" !
 
   Aucun intrant dans ce vin.
 
   \-Titre alcoométrique : 11 %vol.
 
-  \-Sucres résiduels : <4 g/l 
+  \-Sucres résiduels : <4 g/l
 
   \-SO2 total : 19 mg/l
 
@@ -70,7 +70,7 @@ En 2021, j'ai réalisé mes premiers vins chez moi, à Laxou.
 
   \-SO2 total : 13 mg/l.
 
-  **-la deuxième mise** ( indiquée par un " **II** " sur le numéro de lot de la bouteille) est issue de ma petite parcelle en vigne basse. C'est un assemblage : 50% provient d'une macération de 24h de la vendange entière après foulage, et 50% provient d'une macération semi-carbonique à basse température, de plusieurs semaines, ayant extrait peu de couleur et de tanins.
+  **-la deuxième mise** ( indiquée par un " **II** " ajouté au feutre sur l'étiquette de la bouteille) est issue de ma petite parcelle en vigne basse. C'est un assemblage : 50% provient d'une macération de 24h de la vendange entière après foulage, et 50% provient d'une macération semi-carbonique à basse température, de plusieurs semaines, ayant extrait peu de couleur et de tanins.
 
   Le seul intrant consiste en un ajout de 20 mg/l de SO2 réalisé en cours d'élevage sur l'un des deux fûts ayant permis d'obtenir cette cuvée.
 
