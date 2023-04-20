@@ -21,7 +21,8 @@ _- la liste des points de vente actuels, de Paris à Strasbourg._
 
 ## -   2022   -
 
-* **Premier vin de la série "Natka" en 2022** : **un** **pétillant naturel 100% Gamay** frais et léger, issu des premières vendanges au début du mois de septembre.
+* **Trois cuvées différentes pour "Natka" en 2022** : 
+  * **première cuvée : pétillant naturel 100% Gamay** frais et léger, issu des premières vendanges au début du mois de septembre.
 
   ![](/images/natka.jpg)
 
@@ -34,6 +35,19 @@ _- la liste des points de vente actuels, de Paris à Strasbourg._
   \-Sucres résiduels : <4 g/l
 
   \-SO2 total : 19 mg/l
+  * **deuxième et troisième cuvées : vin tranquille et pétillant naturel 94% Gamay/6% Pinot Noir**.
+
+    Ces deux vins proviennent de la même cuve, seule la fin de la fermentation a différé de contenant. 
+
+    Les vendanges se sont étalées entre le 10 et le 20 septembre. De bonne maturité générale, les raisins ont été pressées directement pour le gamay et macérés 24h après foulage pour le pinot noir. Le pétillant naturel est fait selon la méthode ancestrale : tirage du vin à une densité proche de celle de l'eau. Dégorgement en mars 2023. 
+
+    Analyse du vin tranquille en avril 2023 :
+
+    \-Titre alcoométrique : 12%vol.
+
+    \-Sucres résiduels :  3,9g/l
+
+    \-SO2 total : 7 mg/l
 
 ## -   2021   -
 
