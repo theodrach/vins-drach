@@ -35,7 +35,7 @@ _- la liste des points de vente actuels, de Paris à Strasbourg._
   \-Sucres résiduels : <4 g/l
 
   \-SO2 total : 19 mg/l
-  * **deuxième et troisième cuvées : vin tranquille et pétillant naturel 94% Gamay/6% Pinot Noir**.
+  * **deuxième et troisième cuvées : vin tranquille et pétillant naturel, 94% Gamay / 6% Pinot Noir**.
 
     Ces deux vins proviennent de la même cuve et sont en principe identiques, seul le contenant de la fin de fermentation les distingue !
 
