@@ -21,6 +21,14 @@ _- la liste des points de vente actuels, de Paris à Strasbourg._
 
 ## -   2022   -
 
+* **Lacrima Draci** : un vin rouge 100% gamay.
+    ![](/images/lacrima_draci.tif)
+
+Cette cuvée est un assemblage entre deux parcours de vinifications un peu différents à partir de raisins issus de la même parcelle : 
+- 2/3 de macération semi-carbonique suivie d'une fin de femrentation et d'un élevage sur lies en cuve en fibre;
+- 1/3 de macération traditionnelle suivie d'une fin de fermentation et d'un élevage en barrique.
+  Le but est d'obtenir un vin léger et gouleyant, mais non dénué de longueur et avec une légère trame tannique.
+
 * **Trois cuvées différentes pour "Natka" en 2022** : 
   * **première cuvée : pétillant naturel 100% Gamay** frais et léger, issu des premières vendanges au début du mois de septembre.
 
