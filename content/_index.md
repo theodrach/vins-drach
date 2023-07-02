@@ -21,7 +21,7 @@ _- la liste des points de vente actuels, de Paris à Strasbourg._
 
 ## -   2022   -
 
-* **Lacrima Draci** : un vin rouge 100% gamay.
+* **Lacrima Draci : un vin rouge 100% gamay** .
     ![](/images/lacrima_draci.tif)
 
 Cette cuvée est un assemblage entre deux parcours de vinifications un peu différents à partir de raisins issus de la même parcelle : 
